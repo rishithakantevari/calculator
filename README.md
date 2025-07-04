@@ -1,2 +1,2 @@
 ﻿# calculator
- https://rishithakantevari.github.io/calculator/
+
